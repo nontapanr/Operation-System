@@ -1,11 +1,5 @@
-using System;
-using System.Diagnostics;
-using System.IO;
-using System.Runtime.Serialization;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.Threading;
-
-namespace Problem01 {
+namespace Problem01
+{
     unsafe class Program {
         static readonly int processorCount = System.Environment.ProcessorCount;
         static byte[] Data_Global = new byte[1000000000];

@@ -1,0 +1,13 @@
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.csprojAssemblyReference.cache
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.AssemblyInfoInputs.cache
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.AssemblyInfo.cs
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.csproj.CoreCompileInputs.cache
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\bin\Debug\netcoreapp3.1\Synchronization_Case02.exe
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\bin\Debug\netcoreapp3.1\Synchronization_Case02.deps.json
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\bin\Debug\netcoreapp3.1\Synchronization_Case02.runtimeconfig.json
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\bin\Debug\netcoreapp3.1\Synchronization_Case02.runtimeconfig.dev.json
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\bin\Debug\netcoreapp3.1\Synchronization_Case02.dll
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\bin\Debug\netcoreapp3.1\Synchronization_Case02.pdb
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.dll
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.pdb
+G:\My Drive\KMITL Files\___D3_Sem1\Operation Systems\Case Study\Operation-System\Synchronization_Case02\obj\Debug\netcoreapp3.1\Synchronization_Case02.genruntimeconfig.cache
